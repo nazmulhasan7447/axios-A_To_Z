@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import authFetch from "./Custom";
+import authFetch from "./Interceptors";
 
 // const url = "https://course-api.com/axios-tutorial-post";
 
